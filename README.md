@@ -123,8 +123,8 @@ Cancel a running task by ID.
 | Provider | Default Model | API Key Variable | Notes |
 |----------|---------------|------------------|-------|
 | **Gemini** | `gemini-flash-latest` | `GOOGLE_API_KEY` | Free tier available, recommended for testing |
-| **OpenAI** | `gpt-4.1-mini` | `OPENAI_API_KEY` | GPT models |
-| **Anthropic** | `claude-sonnet-4-0` | `ANTHROPIC_API_KEY` | Claude models |
+e **OpenAI** | `gpt-4o` | `OPENAI_API_KEY` | GPT models |
+| **Anthropic** | `claude-sonnet` | `ANTHROPIC_API_KEY` | Claude models |
 | **browser-use** | `browseruse-default` | `BROWSER_USE_API_KEY` | Optimized for browser automation |
 
 ## Session Persistence
